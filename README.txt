@@ -1,0 +1,2 @@
+The web is developed using Django, framework of Python, and I used Pinterest's concept.
+They use Django too, then I tried to aproximate my functions to Pinterest's functions. It was interesting and a good first contact.
